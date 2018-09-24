@@ -1,2 +1,8 @@
 -- esto es el fichero A.
 -- Creado en la linea Master
+-- este fichero A evoluciona en la linea Develop.
+
+-- esto es un nuevo desarrollo realizado en la linea Feature-A1
+
+-- otro cambio en la linea develop que no esta en la linea Feature-A1
+
